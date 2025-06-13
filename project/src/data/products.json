@@ -1,0 +1,227 @@
+{
+  "categories": [
+    {
+      "id": "miniatures",
+      "name": "Miniature",
+      "description": "Miniature dettagliate per collezionisti e appassionati di giochi da tavolo"
+    },
+    {
+      "id": "home",
+      "name": "Oggetti per la Casa",
+      "description": "Articoli funzionali e decorativi per la vita quotidiana"
+    },
+    {
+      "id": "gadgets",
+      "name": "Gadget",
+      "description": "Accessori tecnologici e oggetti personalizzati unici"
+    },
+    {
+      "id": "prototypes",
+      "name": "Prototipi",
+      "description": "Prototipazione rapida per professionisti e aziende"
+    }
+  ],
+  "materials": [
+    {
+      "id": "pla",
+      "name": "PLA",
+      "description": "Plastica biodegradabile, ideale per principianti"
+    },
+    {
+      "id": "abs",
+      "name": "ABS",
+      "description": "Plastica resistente e duratura"
+    },
+    {
+      "id": "petg",
+      "name": "PETG",
+      "description": "Combinazione di facilità e resistenza"
+    },
+    {
+      "id": "resin",
+      "name": "Resina",
+      "description": "Per dettagli ultra-precisi"
+    }
+  ],
+  "products": [
+    {
+      "id": "dragon-miniature",
+      "name": "Drago Fantasy Dettagliato",
+      "category": "miniatures",
+      "price": 15.99,
+      "material": "resin",
+      "colors": ["Grigio", "Nero", "Rosso"],
+      "dimensions": "5x8x4 cm",
+      "printTime": "3 ore",
+      "description": "Miniatura di drago altamente dettagliata, perfetta per giochi da tavolo e collezioni fantasy. Stampata in resina di alta qualità con dettagli ultra-precisi.",
+      "features": [
+        "Dettagli ultra-precisi",
+        "Base inclusa",
+        "Pronto per la pittura",
+        "Resistente agli urti"
+      ],
+      "images": [
+        "https://lh7-rt.googleusercontent.com/docsz/AD_4nXfa86v13uiVX11eP9ZXepWNiUIJsSRrXyWsJJ7LsmMnD8apOXAVTOFTxAhMDcTXcrHpoVQvsmMJkdfDdwyNTD_mXZuKO0YnlSpdddtM3EBe4QPJz3J_avNLoyOszmX75vCUpgwgDA?key=-ulKoyeUucZl0-5JnU3wPOeE",
+        "https://lh7-rt.googleusercontent.com/docsz/AD_4nXd2shk1ar0HxIkCd8aktZX2OeWFJ_7KFJGiz9lXTvE0xfb9-Ui1QbXIeUGtLCcHe8CvGOg-EQzL0pNwCGjmwkMnN36frSM1kAUW3xozyY8R-R6-lr26sMOq9w5Yt3HHk-wQHmNcjw?key=-ulKoyeUucZl0-5JnU3wPOeE"
+      ],
+      "featured": true
+    },
+    {
+      "id": "phone-stand",
+      "name": "Supporto Smartphone Regolabile",
+      "category": "gadgets",
+      "price": 8.50,
+      "material": "pla",
+      "colors": ["Bianco", "Nero", "Blu", "Rosso"],
+      "dimensions": "12x8x15 cm",
+      "printTime": "2 ore",
+      "description": "Supporto ergonomico per smartphone con angolazione regolabile. Design moderno e funzionale per scrivania o comodino.",
+      "features": [
+        "Angolazione regolabile",
+        "Anti-scivolo",
+        "Compatibile con tutti gli smartphone",
+        "Design minimale"
+      ],
+      "images": [
+        "https://www.techly.it/media/catalog/product/cache/3/image/1000x/9df78eab33525d08d6e5fb8d27136e95/9/a/9aad76b00ebe6499c35117f26e295e68d3fb44a0_supporto_regolabile_e_pieghevole_porta_smartphone_tablet_da_scrivania_techly_i_smart_stand6_539.jpg",
+        "https://cdn.discordapp.com/attachments/1286814116232560700/1380898070895530085/40-supporto_regolabile_e_pieghevole_porta_smartphone_tablet_da_scrivania-techly-i-smart-stand6-53934_1_10.png?ex=68458d0b&is=68443b8b&hm=11de2c0f9651f15e524d6c5e0f96bcb4c9b5b6e815e9a6b3a6845ce19bb84b02&",
+        "https://cdn.discordapp.com/attachments/1286814116232560700/1380898070895530085/40-supporto_regolabile_e_pieghevole_porta_smartphone_tablet_da_scrivania-techly-i-smart-stand6-53934_1_10.png?ex=68458d0b&is=68443b8b&hm=11de2c0f9651f15e524d6c5e0f96bcb4c9b5b6e815e9a6b3a6845ce19bb84b02&",
+        "https://cdn.discordapp.com/attachments/1286814116232560700/1380898114847768766/50-supporto_regolabile_e_pieghevole_porta_smartphone_tablet_da_scrivania-techly-i-smart-stand6-53934_1_5.png?ex=68458d16&is=68443b96&hm=3d27db818fa86f00033dcd45a1ac0a85fab8e495d37e3484a146803a5c5a107b&", "https://media.discordapp.net/attachments/1286814116232560700/1380898179154710548/120-supporto_regolabile_e_pieghevole_porta_smartphone_tablet_da_scrivania-techly-i-smart-stand6-53934_10_1.png?ex=68458d25&is=68443ba5&hm=b9c4ed82b221ca5e9feec7b31ce174bab70d6794ba6d60f71565cf7e647032ea&=&format=webp&quality=lossless&width=894&height=894"
+        
+      ],
+      "featured": true
+    },
+    {
+      "id": "decorative-vase",
+      "name": "Vaso Decorativo Geometrico",
+      "category": "home",
+      "price": 22.00,
+      "material": "petg",
+      "colors": ["Bianco", "Grigio", "Verde", "Blu"],
+      "dimensions": "15x15x20 cm",
+      "printTime": "6 ore",
+      "description": "Elegante vaso decorativo con pattern geometrico moderno. Perfetto per piante grasse o come elemento decorativo.",
+      "features": [
+        "Design geometrico unico",
+        "Resistente all'acqua",
+        "Fondo anti-scivolo",
+        "Facile da pulire"
+      ],
+      "images": [
+        "https://iconichome.com/wp-content/uploads/iconic-home-vase-straight-3-set-shadow-grey-581x775.jpg",
+        "https://iconichome.com/wp-content/uploads/iconic-home-vase-shape-3-set-dreamy-grey-1.jpg"
+      ],
+      "featured": true
+    },
+    {
+      "id": "chess-set",
+      "name": "Set Scacchi Moderno",
+      "category": "miniatures",
+      "price": 45.00,
+      "material": "pla",
+      "colors": ["Bianco/Nero", "Rosso/Blu"],
+      "dimensions": "40x40x8 cm",
+      "printTime": "12 ore",
+      "description": "Set completo di scacchi con design contemporaneo. Include scacchiera pieghevole e tutti i 32 pezzi.",
+      "features": [
+        "32 pezzi inclusi",
+        "Scacchiera pieghevole",
+        "Design moderno",
+        "Perfetto equilibrio"
+      ],
+      "images": [
+        "https://images.pexels.com/photos/1040157/pexels-photo-1040157.jpeg",
+        "https://images.pexels.com/photos/163064/play-stone-network-networked-interactive-163064.jpeg"
+      ],
+      "featured": false
+    },
+    {
+      "id": "desk-organizer",
+      "name": "Organizer da Scrivania",
+      "category": "home",
+      "price": 18.50,
+      "material": "abs",
+      "colors": ["Nero", "Bianco", "Grigio"],
+      "dimensions": "25x15x10 cm",
+      "printTime": "4 ore",
+      "description": "Organizer multifunzionale per scrivania con scomparti per penne, clip, post-it e piccoli oggetti.",
+      "features": [
+        "Multipli scomparti",
+        "Base anti-scivolo",
+        "Materiale resistente",
+        "Design ergonomico"
+      ],
+      "images": [
+        "https://images.pexels.com/photos/1181676/pexels-photo-1181676.jpeg",
+        "https://images.pexels.com/photos/7688336/pexels-photo-7688336.jpeg"
+      ],
+      "featured": false
+    },
+    {
+      "id": "custom-keychain",
+      "name": "Portachiavi Personalizzato",
+      "category": "gadgets",
+      "price": 5.99,
+      "material": "pla",
+      "colors": ["Multicolore"],
+      "dimensions": "3x5x0.5 cm",
+      "printTime": "30 minuti",
+      "description": "Portachiavi personalizzabile con nome, logo o design a scelta. Perfetto come regalo o gadget aziendale.",
+      "features": [
+        "Completamente personalizzabile",
+        "Resistente all'usura",
+        "Colori vivaci",
+        "Consegna rapida"
+      ],
+      "images": [
+        "https://images.pexels.com/photos/4219654/pexels-photo-4219654.jpeg",
+        "https://images.pexels.com/photos/3184357/pexels-photo-3184357.jpeg"
+      ],
+      "featured": false
+    },
+    {
+      "id": "prototype-housing",
+      "name": "Prototipo Involucro Elettronico",
+      "category": "prototypes",
+      "price": 35.00,
+      "material": "abs",
+      "colors": ["Grigio", "Nero"],
+      "dimensions": "10x6x3 cm",
+      "printTime": "5 ore",
+      "description": "Prototipo di involucro per dispositivi elettronici. Ideale per test di form factor e assemblaggio.",
+      "features": [
+        "Precisione dimensionale",
+        "Resistente al calore",
+        "Modificabile",
+        "Tempi rapidi"
+      ],
+      "images": [
+        "https://images.pexels.com/photos/163064/play-stone-network-networked-interactive-163064.jpeg",
+        "https://images.pexels.com/photos/1040173/pexels-photo-1040173.jpeg"
+      ],
+      "featured": false
+    },
+    {
+      "id": "plant-pot",
+      "name": "Vaso per Piante Succulente",
+      "category": "home",
+      "price": 12.99,
+      "material": "petg",
+      "colors": ["Terracotta", "Bianco", "Verde"],
+      "dimensions": "8x8x6 cm",
+      "printTime": "2.5 ore",
+      "description": "Piccolo vaso perfetto per piante grasse e succulente. Include foro di drenaggio e sottovaso.",
+      "features": [
+        "Foro di drenaggio",
+        "Sottovaso incluso",
+        "Dimensione perfetta",
+        "Materiale food-safe"
+      ],
+      "images": [
+        "https://images.pexels.com/photos/1029615/pexels-photo-1029615.jpeg",
+        "https://images.pexels.com/photos/1598300/pexels-photo-1598300.jpeg"
+      ],
+      "featured": false
+    }
+  ]
+}
